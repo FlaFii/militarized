@@ -159,7 +159,6 @@ header.hero-img {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-attachment: fixed;
   z-index: 1;
 }
 header.hero-img .hero-text {
@@ -363,7 +362,6 @@ main {
   background-image: url("../img/team-hero-sm.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-position: -50 -50;
   z-index: 1;
 }
@@ -448,7 +446,6 @@ main {
   background-image: url("../img/contact-hero-sm.jpg");
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
   background-repeat: no-repeat;
   color: #fff;
   text-align: center;
