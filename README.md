@@ -1,3 +1,3 @@
-# militarized
+# Militarized
 
 Creator: Mateusz Szymuś
